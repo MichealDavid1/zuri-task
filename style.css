@@ -24,14 +24,14 @@ html, body {
 
   .cont {
     flex-flow: column;
-    height: 70vh;
-    width: 20vw;
+    height: 74vh;
+    width: 22vw;
     margin: auto 0;
     padding-left: 3%;
   }
 
   .logo {
-   margin: 18% 0;
+   margin: 16% 0;
   }
 
   h1 {
