@@ -24,8 +24,8 @@ html, body {
 
   .cont {
     flex-flow: column;
-    height: 75vh;
-    width: 20vw;
+    height: 74vh;
+    width: 22vw;
     margin: auto 0;
     padding-left: 3%;
   }
